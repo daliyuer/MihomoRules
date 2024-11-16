@@ -1,3 +1,5 @@
+# 不代理域名
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,muooy
 DOMAIN-KEYWORD,trackeri
@@ -11,3 +13,4 @@ DOMAIN-SUFFIX,rousi.zip
 DOMAIN-SUFFIX,ilolicon.cc
 DOMAIN-SUFFIX,nextpt.net
 DOMAIN-SUFFIX,nextpt.net
+DOMAIN,ccoc.eu.org
