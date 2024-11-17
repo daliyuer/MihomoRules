@@ -32,3 +32,6 @@ DOMAIN,stun.romaaeterna.nl
 DOMAIN,stun.fitauto.ru
 DOMAIN,stun.antisip.com
 DOMAIN,stun.heeds.eu
+
+# 匹配 IP 地址范围
+IP-CIDR,198.41.0.0/16,no-resolve
