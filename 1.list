@@ -34,7 +34,7 @@ DOMAIN,stun.antisip.com
 DOMAIN,stun.heeds.eu
 
 #steam
-DOMAIN,steamcontent.com
+DOMAIN-SUFFIX,steamcontent.com
 DOMAIN,dl.steam.clngaa.com
 DOMAIN,dl.steam.ksyna.com
 DOMAIN,st.dl.bscstorage.net
