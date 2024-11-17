@@ -15,7 +15,7 @@ DOMAIN-SUFFIX,nextpt.net
 DOMAIN-SUFFIX,nextpt.net
 DOMAIN-SUFFIX,ccoc.eu.org
 
-# 域名匹配
+# 匹配完整域名
 DOMAIN,stun.radiojar.com
 DOMAIN,stun.ringostat.com
 DOMAIN,stun.irishvoip.com
@@ -32,6 +32,19 @@ DOMAIN,stun.romaaeterna.nl
 DOMAIN,stun.fitauto.ru
 DOMAIN,stun.antisip.com
 DOMAIN,stun.heeds.eu
+
+#steam
+DOMAIN,steamcontent.com
+DOMAIN,dl.steam.clngaa.com
+DOMAIN,dl.steam.ksyna.com
+DOMAIN,st.dl.bscstorage.net
+DOMAIN,st.dl.eccdnx.com
+DOMAIN,st.dl.pinyuncloud.com
+DOMAIN,cdn.mileweb.cs.steampowered.com.8686c.com
+DOMAIN,cdn-ws.content.steamchina.com
+DOMAIN,cdn-qc.content.steamchina.com
+DOMAIN,cdn-ali.content.steamchina.com
+DOMAIN,epicgames-download1-1251447533.file.myqcloud.com
 
 # 匹配 IP 地址范围
 IP-CIDR,198.41.0.0/16,no-resolve
