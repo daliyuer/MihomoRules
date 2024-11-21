@@ -3,3 +3,6 @@
 # 域名后缀匹配
 DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,fsm.name
+# 抖音修改IP
+- DOMAIN-SUFFIX,amemv.com,抖快书定位
+- DOMAIN-SUFFIX,douyinvod.com,抖快书定位
