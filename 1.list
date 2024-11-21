@@ -13,8 +13,11 @@ DOMAIN-SUFFIX,rousi.zip
 DOMAIN-SUFFIX,ilolicon.cc
 DOMAIN-SUFFIX,nextpt.net
 DOMAIN-SUFFIX,ccoc.eu.org
+DOMAIN-SUFFIX,trafficmanager.net
+
 
 # 匹配完整域名
+DOMAIN,time.windows.com
 DOMAIN,stun.radiojar.com
 DOMAIN,stun.ringostat.com
 DOMAIN,stun.irishvoip.com
