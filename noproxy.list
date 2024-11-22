@@ -35,6 +35,7 @@ DOMAIN,stun.romaaeterna.nl
 DOMAIN,stun.fitauto.ru
 DOMAIN,stun.antisip.com
 DOMAIN,stun.heeds.eu
+DOMAIN, twc.trafficmanager.net
 
 #steam
 DOMAIN-KEYWORD,steamcontent
@@ -53,3 +54,4 @@ DOMAIN,epicgames-download1-1251447533.file.myqcloud.com
 # 匹配 IP 地址范围
 IP-CIDR,198.41.0.0/16,no-resolve
 IP-CIDR,40.119.6.228/32,no-resolve
+IP-CIDR,20.43.94.199/32,no-resolve
