@@ -3,6 +3,7 @@
 # 域名关键字匹配
 DOMAIN-KEYWORD,muooy
 DOMAIN-KEYWORD,trackeri
+DOMAIN-KEYWORD,tracker
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,muooy.com
@@ -14,6 +15,8 @@ DOMAIN-SUFFIX,ilolicon.cc
 DOMAIN-SUFFIX,nextpt.net
 DOMAIN-SUFFIX,ccoc.eu.org
 DOMAIN-SUFFIX,trafficmanager.net
+DOMAIN-SUFFIX,bittorrent.com
+DOMAIN-SUFFIX,bttrack.com
 
 
 
