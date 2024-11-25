@@ -4,3 +4,6 @@
 DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,fsm.name
 DOMAIN-SUFFIX,jinyingjie.com
+
+# 匹配 IP 地址范围
+IP-CIDR,47.97.163.61/32,no-resolve
