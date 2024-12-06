@@ -19,7 +19,8 @@ DOMAIN-SUFFIX,trafficmanager.net
 DOMAIN-SUFFIX,bittorrent.com
 DOMAIN-SUFFIX,bttrack.com
 DOMAIN-SUFFIX,okx.com
-
+DOMAIN-SUFFIX,haod.eu.org
+DOMAIN-SUFFIX,chxza.eu.org
 
 
 # 匹配完整域名
@@ -40,7 +41,9 @@ DOMAIN,stun.romaaeterna.nl
 DOMAIN,stun.fitauto.ru
 DOMAIN,stun.antisip.com
 DOMAIN,stun.heeds.eu
-DOMAIN, twc.trafficmanager.net
+DOMAIN,twc.trafficmanager.net
+DOMAIN,hub.haod.eu.org
+DOMAIN,hub.chxza.eu.org
 
 #steam
 DOMAIN-KEYWORD,steamcontent
