@@ -21,7 +21,9 @@ DOMAIN-SUFFIX,bttrack.com
 DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,haod.eu.org
 DOMAIN-SUFFIX,chxza.eu.org
-
+DOMAIN-SUFFIX,urlsa.us.kg
+DOMAIN-SUFFIX,daliy.us.kg
+DOMAIN-SUFFIX,mians.us.kg
 
 # 匹配完整域名
 DOMAIN,time.windows.com
