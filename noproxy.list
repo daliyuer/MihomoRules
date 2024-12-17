@@ -34,26 +34,28 @@ DOMAIN-SUFFIX,tmobile.com
 
 
 # 匹配完整域名
-DOMAIN,stun.radiojar.com
-DOMAIN,stun.ringostat.com
-DOMAIN,stun.irishvoip.com
-DOMAIN,stun.voipgate.com
-DOMAIN,stun.tula.nu
-DOMAIN,stun.yesdates.com
-DOMAIN,stun.telnyx.com
-DOMAIN,stun.vavadating.com
-DOMAIN,stun.bau-ha.us
-DOMAIN,stun.bridesbay.com
-DOMAIN,stun.3wayint.com
-DOMAIN,stun.finsterwalder.com
-DOMAIN,stun.romaaeterna.nl
-DOMAIN,stun.fitauto.ru
-DOMAIN,stun.antisip.com
-DOMAIN,stun.heeds.eu
 DOMAIN,time.windows.com
 DOMAIN,twc.trafficmanager.net
 DOMAIN,hub.haod.eu.org
 DOMAIN,hub.chxza.eu.org
+
+
+# DOMAIN,stun.radiojar.com
+# DOMAIN,stun.ringostat.com
+# DOMAIN,stun.irishvoip.com
+# DOMAIN,stun.voipgate.com
+# DOMAIN,stun.tula.nu
+# DOMAIN,stun.yesdates.com
+# DOMAIN,stun.telnyx.com
+# DOMAIN,stun.vavadating.com
+# DOMAIN,stun.bau-ha.us
+# DOMAIN,stun.bridesbay.com
+# DOMAIN,stun.3wayint.com
+# DOMAIN,stun.finsterwalder.com
+# DOMAIN,stun.romaaeterna.nl
+# DOMAIN,stun.fitauto.ru
+# DOMAIN,stun.antisip.com
+# DOMAIN,stun.heeds.eu
 
 #steam
 DOMAIN-KEYWORD,steamcontent
