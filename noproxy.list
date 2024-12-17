@@ -6,6 +6,7 @@ DOMAIN-KEYWORD,trackeri
 DOMAIN-KEYWORD,tracker
 DOMAIN-KEYWORD,t.ubits
 DOMAIN-KEYWORD,t-mobile
+DOMAIN-KEYWORD,tmobile
 
 
 
@@ -29,6 +30,7 @@ DOMAIN-SUFFIX,mians.us.kg
 DOMAIN-SUFFIX,acoc.eu.org
 DOMAIN-SUFFIX,msg.t-mobile.com
 DOMAIN-SUFFIX,t-mobile.com
+DOMAIN-SUFFIX,tmobile.com
 
 
 # 匹配完整域名
