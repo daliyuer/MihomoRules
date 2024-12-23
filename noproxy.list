@@ -35,6 +35,11 @@ DOMAIN-SUFFIX,tmobile.com
 
 # 匹配完整域名
 DOMAIN,time.windows.com
+DOMAIN,twc.trafficmanager.net
+DOMAIN,hub.haod.eu.org
+DOMAIN,hub.chxza.eu.org
+
+
 DOMAIN,stun.radiojar.com
 DOMAIN,stun.ringostat.com
 DOMAIN,stun.irishvoip.com
@@ -51,9 +56,6 @@ DOMAIN,stun.romaaeterna.nl
 DOMAIN,stun.fitauto.ru
 DOMAIN,stun.antisip.com
 DOMAIN,stun.heeds.eu
-DOMAIN,twc.trafficmanager.net
-DOMAIN,hub.haod.eu.org
-DOMAIN,hub.chxza.eu.org
 
 #steam
 DOMAIN-KEYWORD,steamcontent
