@@ -3,7 +3,7 @@
 # 域名后缀匹配
 DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,jinyingjie.com
-#DOMAIN-SUFFIX,huaweicloud.com
+DOMAIN-SUFFIX,huaweicloud.com
 
 
 # 匹配 IP 地址范围
