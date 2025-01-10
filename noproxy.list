@@ -77,3 +77,5 @@ DOMAIN,epicgames-download1-1251447533.file.myqcloud.com
 IP-CIDR,198.41.0.0/16,no-resolve
 IP-CIDR,40.119.6.228/32,no-resolve
 IP-CIDR,20.43.94.199/32,no-resolve
+IP-CIDR,154.64.244.29/32,no-resolve
+IP-CIDR,154.64.244.67/32,no-resolve
