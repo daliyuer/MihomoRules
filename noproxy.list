@@ -13,7 +13,6 @@ DOMAIN-KEYWORD,tmobile
 # 域名后缀匹配
 DOMAIN-SUFFIX,muooy.com
 DOMAIN-SUFFIX,sanguosha.com
-#DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,gog.email
 DOMAIN-SUFFIX,ilolicon.cc
 DOMAIN-SUFFIX,nextpt.net
