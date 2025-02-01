@@ -1,5 +1,10 @@
 #货币平台
 
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,bybit
+DOMAIN-KEYWORD,binance
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,bybit.com
 DOMAIN-SUFFIX,bybit.biz
