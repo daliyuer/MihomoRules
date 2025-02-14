@@ -4,7 +4,7 @@
 DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,jinyingjie.com
 DOMAIN-SUFFIX,huaweicloud.com
-DOMAIN,shop.gog.email
+#DOMAIN,shop.gog.email
 
 # 匹配 IP 地址范围
 IP-CIDR,47.97.163.61/32,no-resolve
