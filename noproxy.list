@@ -8,6 +8,7 @@ DOMAIN-KEYWORD,t.ubits
 DOMAIN-KEYWORD,t-mobile
 DOMAIN-KEYWORD,tmobile
 DOMAIN-KEYWORD,sanguosha
+DOMAIN-KEYWORD,zhihu
 
 
 
@@ -33,6 +34,7 @@ DOMAIN-SUFFIX,t-mobile.com
 DOMAIN-SUFFIX,tmobile.com
 DOMAIN-SUFFIX,daliy.us.kg
 DOMAIN-SUFFIX,mians.us.kg
+DOMAIN-SUFFIX,zhihu.com
 
 
 # 匹配完整域名
