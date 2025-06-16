@@ -7,13 +7,14 @@ DOMAIN-KEYWORD,tracker
 DOMAIN-KEYWORD,t.ubits
 DOMAIN-KEYWORD,t-mobile
 DOMAIN-KEYWORD,tmobile
+DOMAIN-KEYWORD,sanguosha
 
 
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,muooy.com
 DOMAIN-SUFFIX,sanguosha.com
-DOMAIN-SUFFIX,gog.email
+DOMAIN-SUFFIX,gog.email 
 DOMAIN-SUFFIX,ilolicon.cc
 DOMAIN-SUFFIX,nextpt.net
 DOMAIN-SUFFIX,ccoc.eu.org
