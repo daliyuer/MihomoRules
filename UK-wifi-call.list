@@ -12,3 +12,10 @@ IP-CIDR,46.68.0.0/17
 # Giffgaff
 IP-CIDR,87.194.0.0/16
 IP-CIDR,208.54.0.0/16
+
+#ClubSIM
+DOMAIN-SUFFIX,csl.prod.ondemandconnectivity.com
+DOMAIN-SUFFIX,hhk.prod.ondemandconnectivity.com
+DOMAIN-SUFFIX,epdg.epc.mnc000.mcc454.pub.3gppnetwork.org
+DOMAIN-SUFFIX,ss.epdg.epc.mnc000.mcc454.pub.3gppnetwork.org
+DOMAIN-SUFFIX,ss.epdg.epc.geo.mnc000.mcc454.pub.3gppnetwork.org
