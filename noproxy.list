@@ -39,6 +39,7 @@ DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,juzixp.top
 DOMAIN-SUFFIX,applexp.com
 DOMAIN-SUFFIX,juzixp.com
+DOMAIN-SUFFIX,pinguo.de
 
 # 匹配完整域名
 DOMAIN,time.windows.com
