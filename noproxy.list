@@ -69,17 +69,19 @@ DOMAIN,gst.prod.dl.playstation.net
 
 
 #steam
-DOMAIN-KEYWORD,steamcontent
-DOMAIN-SUFFIX,steamcontent.com
-DOMAIN,dl.steam.clngaa.com
-DOMAIN,dl.steam.ksyna.com
-DOMAIN,st.dl.bscstorage.net
-DOMAIN,st.dl.eccdnx.com
-DOMAIN,st.dl.pinyuncloud.com
-DOMAIN,cdn.mileweb.cs.steampowered.com.8686c.com
-DOMAIN,cdn-ws.content.steamchina.com
-DOMAIN,cdn-qc.content.steamchina.com
-DOMAIN,cdn-ali.content.steamchina.com
+# DOMAIN-KEYWORD,steamcontent
+# DOMAIN-SUFFIX,steamcontent.com
+# DOMAIN,dl.steam.clngaa.com
+# DOMAIN,dl.steam.ksyna.com
+# DOMAIN,st.dl.bscstorage.net
+# DOMAIN,st.dl.eccdnx.com
+# DOMAIN,st.dl.pinyuncloud.com
+# DOMAIN,cdn.mileweb.cs.steampowered.com.8686c.com
+# DOMAIN,cdn-ws.content.steamchina.com
+# DOMAIN,cdn-qc.content.steamchina.com
+# DOMAIN,cdn-ali.content.steamchina.com
+
+# epic
 DOMAIN,epicgames-download1-1251447533.file.myqcloud.com
 
 # 匹配 IP 地址范围
