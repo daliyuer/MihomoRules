@@ -1,6 +1,7 @@
 # 代理域名
 DOMAIN,ju.gog.email
 DOMAIN,flux.chxza.eu.org
+DOMAIN,img.m-team.cc
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,tmdb.org
