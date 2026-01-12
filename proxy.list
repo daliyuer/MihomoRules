@@ -3,6 +3,9 @@ DOMAIN,ju.gog.email
 DOMAIN,flux.chxza.eu.org
 DOMAIN,img.m-team.cc
 DOMAIN,apple.muooy.com
+DOMAIN,gr.muooy.eu.org
+DOMAIN,twnat.muooy.eu.org
+DOMAIN,api.muooy.eu.org
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,tmdb.org
