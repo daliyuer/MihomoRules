@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,jinyingjie.com
 DOMAIN-SUFFIX,huaweicloud.com
+DOMAIN-SUFFIX,hostloc.com
 #DOMAIN,shop.gog.email
 
 # 匹配 IP 地址范围
