@@ -49,6 +49,9 @@ DOMAIN,z.muooy.com
 DOMAIN,shop.muooy.com
 DOMAIN,www.muooy.com
 # DOMAIN,n.pinguo.de
+DOMAIN,controlplane.tailscale.com
+DOMAIN,log.tailscale.com
+DOMAIN,derp17c.tailscale.com
 
 DOMAIN,stun.radiojar.com
 DOMAIN,stun.ringostat.com
