@@ -51,7 +51,8 @@ DOMAIN,www.muooy.com
 # DOMAIN,n.pinguo.de
 DOMAIN,controlplane.tailscale.com
 DOMAIN,log.tailscale.com
-DOMAIN,derp17c.tailscale.com
+#域名正则表达式
+DOMAIN-REGEX,^derp[a-z0-9]+\.tailscale\.com$
 
 DOMAIN,stun.radiojar.com
 DOMAIN,stun.ringostat.com
