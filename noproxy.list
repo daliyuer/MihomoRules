@@ -39,6 +39,11 @@ DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,applexp.com
 DOMAIN-SUFFIX,hostkey.com
 
+#tailscale组网
+DOMAIN-SUFFIX,tailscale.com
+DOMAIN-SUFFIX,tailscale.io
+DOMAIN-KEYWORD,tailscale
+
 
 # 匹配完整域名
 DOMAIN,time.windows.com
@@ -100,3 +105,4 @@ IP-CIDR,154.64.244.131/32,no-resolve
 IP-CIDR,216.146.27.247/32,no-resolve
 IP-CIDR,69.63.203.40/32,no-resolve
 IP-CIDR,82.40.44.152/32,no-resolve
+IP-CIDR,100.64.0.0/10,no-resolve
