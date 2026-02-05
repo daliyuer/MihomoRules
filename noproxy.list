@@ -43,7 +43,8 @@ DOMAIN-SUFFIX,hostkey.com
 DOMAIN-SUFFIX,tailscale.com
 DOMAIN-SUFFIX,tailscale.io
 DOMAIN-KEYWORD,tailscale
-
+#域名正则表达式
+DOMAIN-REGEX,^derp[a-z0-9]+\.tailscale\.com$
 
 # 匹配完整域名
 DOMAIN,time.windows.com
@@ -56,8 +57,8 @@ DOMAIN,www.muooy.com
 # DOMAIN,n.pinguo.de
 DOMAIN,controlplane.tailscale.com
 DOMAIN,log.tailscale.com
-#域名正则表达式
-DOMAIN-REGEX,^derp[a-z0-9]+\.tailscale\.com$
+DOMAIN,docker.urlsa.dpdns.org
+
 
 DOMAIN,stun.radiojar.com
 DOMAIN,stun.ringostat.com
