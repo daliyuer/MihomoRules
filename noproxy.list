@@ -97,7 +97,7 @@ DOMAIN,epicgames-download1-1251447533.file.myqcloud.com
 
 # 匹配 IP 地址范围
 IP-CIDR,198.41.0.0/16,no-resolve
-IP-CIDR,40.119.6.228/32,no-resolve
+IP-CIDR,40.119.6.228/32,no-resolve31233
 IP-CIDR,20.43.94.199/32,no-resolve
 IP-CIDR,154.64.244.29/32,no-resolve
 IP-CIDR,154.64.244.67/32,no-resolve
@@ -108,4 +108,4 @@ IP-CIDR,69.63.203.40/32,no-resolve
 IP-CIDR,82.40.44.152/32,no-resolve
 IP-CIDR,100.64.0.0/10,no-resolve
 IP-CIDR,205.147.105.30/32,no-resolve
-IP-CIDR,47.128.234.168,no-resolve
+IP-CIDR,47.128.234.168/32,no-resolve
