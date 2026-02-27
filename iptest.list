@@ -1,0 +1,5 @@
+#ip测试网站
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,ping0.cc
+DOMAIN-SUFFIX,ippure.com
