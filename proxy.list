@@ -8,6 +8,8 @@ DOMAIN,twnat.muooy.eu.org
 DOMAIN,api.muooy.eu.org
 DOMAIN,v16-tiktokcdn-com.akamaized.net
 DOMAIN,login.tailscale.com
+DOMAIN,buy.muooy.com
+DOMAIN,www.muooy.com
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,tmdb.org
