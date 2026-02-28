@@ -61,6 +61,7 @@ DOMAIN,controlplane.tailscale.com
 DOMAIN,log.tailscale.com
 DOMAIN,docker.urlsa.dpdns.org
 DOMAIN,iptvs.910501.xyz
+DOMAIN,115server.ddsrem.com
 
 
 DOMAIN,stun.radiojar.com
