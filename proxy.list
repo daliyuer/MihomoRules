@@ -10,6 +10,7 @@ DOMAIN,v16-tiktokcdn-com.akamaized.net
 DOMAIN,login.tailscale.com
 DOMAIN,buy.muooy.com
 DOMAIN,www.muooy.com
+DOMAIN,mail.muooy.com
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,tmdb.org
