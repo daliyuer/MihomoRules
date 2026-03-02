@@ -11,6 +11,7 @@ DOMAIN,login.tailscale.com
 DOMAIN,buy.muooy.com
 DOMAIN,www.muooy.com
 DOMAIN,mail.muooy.com
+DOMAIN,git.applexp.com
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,tmdb.org
