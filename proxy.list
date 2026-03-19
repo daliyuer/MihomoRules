@@ -20,6 +20,7 @@ DOMAIN-SUFFIX,jinyingjie.com
 DOMAIN-SUFFIX,huaweicloud.com
 DOMAIN-SUFFIX,hostloc.com
 #DOMAIN,shop.gog.email
+DOMAIN-SUFFIX,sinka.org.cn
 
 # 匹配 IP 地址范围
 IP-CIDR,47.97.163.61/32,no-resolve
