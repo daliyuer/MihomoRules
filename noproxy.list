@@ -13,8 +13,8 @@ DOMAIN-KEYWORD,zhihu
 
 
 # 域名后缀匹配
-DOMAIN-SUFFIX,muooy.com
-DOMAIN-SUFFIX,applexp.com
+# DOMAIN-SUFFIX,muooy.com
+# DOMAIN-SUFFIX,applexp.com
 DOMAIN-SUFFIX,sanguosha.com
 DOMAIN-SUFFIX,gog.email 
 DOMAIN-SUFFIX,ilolicon.cc
@@ -23,7 +23,7 @@ DOMAIN-SUFFIX,ccoc.eu.org
 DOMAIN-SUFFIX,trafficmanager.net
 DOMAIN-SUFFIX,bittorrent.com
 DOMAIN-SUFFIX,bttrack.com
-DOMAIN-SUFFIX,okx.com
+# DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,haod.eu.org
 DOMAIN-SUFFIX,chxza.eu.org
 DOMAIN-SUFFIX,urlsa.us.kg
@@ -36,7 +36,7 @@ DOMAIN-SUFFIX,tmobile.com
 DOMAIN-SUFFIX,daliy.us.kg
 DOMAIN-SUFFIX,mians.us.kg
 DOMAIN-SUFFIX,zhihu.com
-DOMAIN-SUFFIX,applexp.com
+# DOMAIN-SUFFIX,applexp.com
 DOMAIN-SUFFIX,hostkey.com
 
 
@@ -53,9 +53,9 @@ DOMAIN,time.windows.com
 DOMAIN,twc.trafficmanager.net
 DOMAIN,hub.haod.eu.org
 DOMAIN,hub.chxza.eu.org
-DOMAIN,z.muooy.com
-DOMAIN,shop.muooy.com
-DOMAIN,www.muooy.com
+DOMAIN,img.muooy.com
+# DOMAIN,shop.muooy.com
+# DOMAIN,www.muooy.com
 # DOMAIN,n.pinguo.de
 DOMAIN,controlplane.tailscale.com
 DOMAIN,log.tailscale.com
