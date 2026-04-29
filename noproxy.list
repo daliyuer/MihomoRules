@@ -1,7 +1,7 @@
 # 不代理域名
 
 # 域名关键字匹配
-DOMAIN-KEYWORD,muooy
+# DOMAIN-KEYWORD,muooy
 DOMAIN-KEYWORD,trackeri
 DOMAIN-KEYWORD,tracker
 DOMAIN-KEYWORD,t.ubits
@@ -24,17 +24,17 @@ DOMAIN-SUFFIX,trafficmanager.net
 DOMAIN-SUFFIX,bittorrent.com
 DOMAIN-SUFFIX,bttrack.com
 # DOMAIN-SUFFIX,okx.com
-DOMAIN-SUFFIX,haod.eu.org
-DOMAIN-SUFFIX,chxza.eu.org
-DOMAIN-SUFFIX,urlsa.us.kg
-DOMAIN-SUFFIX,daliy.us.kg
-DOMAIN-SUFFIX,mians.us.kg
-DOMAIN-SUFFIX,acoc.eu.org
+# DOMAIN-SUFFIX,haod.eu.org
+# DOMAIN-SUFFIX,chxza.eu.org
+# DOMAIN-SUFFIX,urlsa.us.kg
+# DOMAIN-SUFFIX,daliy.us.kg
+# DOMAIN-SUFFIX,mians.us.kg
+# DOMAIN-SUFFIX,acoc.eu.org
 DOMAIN-SUFFIX,msg.t-mobile.com
 DOMAIN-SUFFIX,t-mobile.com
 DOMAIN-SUFFIX,tmobile.com
-DOMAIN-SUFFIX,daliy.us.kg
-DOMAIN-SUFFIX,mians.us.kg
+# DOMAIN-SUFFIX,daliy.us.kg
+# DOMAIN-SUFFIX,mians.us.kg
 DOMAIN-SUFFIX,zhihu.com
 # DOMAIN-SUFFIX,applexp.com
 DOMAIN-SUFFIX,hostkey.com
